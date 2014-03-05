@@ -8,7 +8,7 @@ in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](ht
 
 ### Commands
 
-(2 is inessential after a server been prepared by knife solo.)
+(2. is inessential after a server been prepared by knife solo.)
 
 1. berks install
 2. knife solo prepare root@\<my server ip\>

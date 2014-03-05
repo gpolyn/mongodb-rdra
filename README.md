@@ -7,6 +7,7 @@ in Ben Dixon's Leanpub __Reliably Deploying Rails Applications__ ([find here](ht
 * berkshelf (2.0)
 
 ### Commands
+
 (2 is inessential after a server been prepared by knife solo.)
 1. berks install
 2. knife solo prepare root@\<my server ip\>
@@ -30,7 +31,7 @@ mongod
 mongod --dbpath /var/lib/mongodb/ --port 12345
 ````
 ...(the default mongo port was already occupied on my server, hence '12345'.) To access the Mongo shell
-I used the following command:
+I opened another shell and entered
 ````
 mongo --host localhost:12345
 ````

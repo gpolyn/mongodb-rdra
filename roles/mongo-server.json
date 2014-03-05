@@ -1,0 +1,14 @@
+{
+   "name": "mongo-server",
+   "description": "Mongo DB server",
+   "default_attributes": {
+
+   },
+   "json_class": "Chef::Role",
+   "run_list": [
+      "mongo-tlq"
+   ],
+   "chef_type": "role",
+   "override_attributes": {
+   }
+}

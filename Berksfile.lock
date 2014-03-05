@@ -1,0 +1,9 @@
+{
+  "sources": {
+    "mongo-tlq": {
+      "locked_version": "0.0.3",
+      "git": "git@github.com:TalkingQuickly/mongo-tlq.git",
+      "ref": "11736b711346d8d23f7f520d48a56b480e707e94"
+    }
+  }
+}
